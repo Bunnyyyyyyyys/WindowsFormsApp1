@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\obj\Debug\UnitTest.384B57F8.Up2Date
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\User\source\repos\WindowsFormsApp1\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
